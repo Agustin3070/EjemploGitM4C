@@ -3,5 +3,10 @@ function hello() {
 }
 
 function bye() {
-  //defining a function
+  function hola(){
+    function main(){
+      var pepe = console.log("");
+    }
+  }
+
 }
